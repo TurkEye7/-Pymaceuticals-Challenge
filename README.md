@@ -12,3 +12,5 @@
 #        Calculated correlation and regression.
 
 #    Submited TopPy my final analysis
+
+  #    I used openAi to assist me in writing the code, CHATGPT & Xpert Learning Assistance 
